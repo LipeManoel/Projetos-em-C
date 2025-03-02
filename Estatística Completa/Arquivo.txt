@@ -1,0 +1,6 @@
+Média = 4,00
+Mediana = 4,00
+Moda = 4
+Variância = 10,56
+Desvio padrão = 3,25
+Coeficiente de variação = 81,22 %
